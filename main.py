@@ -1,4 +1,3 @@
-import pygame
 
 
 def create_file(R_name, R_pwd):
